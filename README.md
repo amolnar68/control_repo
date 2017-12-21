@@ -1,5 +1,4 @@
 # control_repo
-Most likely the most impressive repo to date.
-Post branch setting to master.
+Edited.  Not it's nice...  Twice as nice.
 
-I can hear the entire world doing a slow clap....
+
